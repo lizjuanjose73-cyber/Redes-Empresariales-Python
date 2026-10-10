@@ -20,7 +20,7 @@ Aún no hay pruebas automáticas.
 Requisitos y ejecución
 Python 3.9 o superior, sin dependencias externas.
 
-Python re_empresarial.py
+Python red_empresarial.py
 
 Bitácora
 Proyecto documentado día a día en LinkedIn.
